@@ -6,7 +6,7 @@ Currently focused on React.js, Next.js, GraphQL and Node.
 
 📫 How to reach me:
  - My email: maikolsoro.z1998@gmail.com
- - MyTwitter
+ 
   
 <!--
 **MaikolSoro/MaikolSoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
