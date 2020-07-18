@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸</h3>
+<h3 align="center">A passionate android developer 👨‍💻 from San Carlos, Costa Rica 🇪🇸</h3>
+<p align="center">
 I am  android developer and multiplatform with ionic, React native.
 I love building products designed to improve people's lives.🌐❤
 Currently focused on React.js, Next.js, GraphQL and Node.
-
+</p>
 
 <p align="center">
   
