@@ -12,7 +12,7 @@ Currently focused on React.js, Next.js, GraphQL and Node.
   <a href="https://twitter.com/maikol_soro" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://fb.com/midudev.frontend" target="blank">
+  <a href="https://fb.com/michael.soro.9041/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/maikolsoro.z1998" target="blank">
