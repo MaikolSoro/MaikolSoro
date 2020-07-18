@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate android developer from San Carlos, Costa Rica</h3>
+
 - 💬 Ask me about **React, javascript, performance web, anything about web development**
 
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
