@@ -1,3 +1,4 @@
+![Michael Soro Zúñiga](https://user-images.githubusercontent.com/46753453/87857134-8bfc8380-c8e1-11ea-8843-def344e9012c.png)
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate android developer from San Carlos, Costa Rica</h3>
 
