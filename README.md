@@ -12,6 +12,7 @@
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
 
 - 🌱 I’m currently learning Gatsby.js
+
 **Languages and Tools:**  
 
 <code><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"></code>
