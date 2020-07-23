@@ -1,6 +1,7 @@
-![Michael Soro Zúñiga](https://user-images.githubusercontent.com/46753453/87857134-8bfc8380-c8e1-11ea-8843-def344e9012c.png)
+![Michael Soro Zúñiga (1)](https://user-images.githubusercontent.com/46753453/88245498-aa051380-cc54-11ea-9d38-24074ddfde9a.png)
+
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate android developer from San Carlos, Costa Rica</h3>
+<h3 align="center">A passionate web developer from San Carlos, Costa Rica</h3>
 
 <p align="center">
     <a href="https://twitter.com/@maikol_soro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@maikol_soro" height="20" width="20" /></a>
@@ -8,7 +9,7 @@
    <a href="https://instagram.com/maikolsoro.z1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maikolsoro.z1998" height="20" width="20" /></a>
  <p/>
  
-- 💬 Ask me about **Android, performance mobile, anything about mobile development**
+- 💬 Ask me about **react, javascript, performance web and anything about web development**
 
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
 
