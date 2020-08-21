@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Vue](https://img.shields.io/badge/-Vue-DD0031?style=flat-square&logo=vue)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 
 #### Backend
@@ -33,7 +33,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![SQLITE](https://img.shields.io/badge/-Sqlite-black?style=flat-square&logo=Sqlite)
+![MySQL](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
  #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
