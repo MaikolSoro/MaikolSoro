@@ -1,7 +1,7 @@
 ![Michael Soro Zúñiga (1)](https://user-images.githubusercontent.com/46753453/88245498-aa051380-cc54-11ea-9d38-24074ddfde9a.png)
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h2 align="center">A passionate web developer from San Carlos, Costa Rica</h2>
+<h3 align="center">A passionate web developer from San Carlos, Costa Rica</h3>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://user-images.githubusercontent.com/46753453/91627783-37840380-e977-11ea-83e6-9656ff900302.gif"     height="30px"/></h3> 
