@@ -5,11 +5,9 @@
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://user-images.githubusercontent.com/46753453/91627783-37840380-e977-11ea-83e6-9656ff900302.gif" height="30px" /></h3> 
 
-<p align="center">
-    <a href="https://twitter.com/@maikol_soro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@maikol_soro" height="20" width="20" /></a>
+ <a href="https://twitter.com/@maikol_soro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@maikol_soro" height="20" width="20" /></a>
    <a href="https://fb.com/michael soro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="michael soro" height="20" width="20" /></a>
    <a href="https://instagram.com/maikolsoro.z1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maikolsoro.z1998" height="20" width="20" /></a>
- <p/>
  </div>
 - 💬 Ask me about **react, javascript, performance web and anything about web development**
 
