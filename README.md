@@ -14,6 +14,7 @@
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
 
 - 🌱 I’m currently learning Gatsby.js
+<img align="right" src="https://user-images.githubusercontent.com/46753453/91627739-cd6b5e80-e976-11ea-9b75-7365741893af.gif"/>
 
 **Languages and Tools:**  
 
