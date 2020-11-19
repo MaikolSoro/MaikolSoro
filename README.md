@@ -32,6 +32,7 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
  ### Desk
+ <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>
  ### Mobile
  ![Xamarin](https://img.shields.io/badge/-Xamarin-black?style=flat-square&logo=xamarin)
  ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
