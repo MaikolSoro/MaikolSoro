@@ -13,7 +13,7 @@
 <a href="https://instagram.com/maikolsoro.z1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maikolsoro.z1998" height="20" width="40"/></a>
  <p/>
  
-- 💬 Ask me about ** react, javascript, performance web and anything about web development**
+- 💬 Ask me about **react, javascript, performance web on mobile and anything about web and mobile development**
 
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
 
