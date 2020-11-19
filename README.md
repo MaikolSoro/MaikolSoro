@@ -1,7 +1,7 @@
 ![Michael Soro Zúñiga (1)](https://user-images.githubusercontent.com/46753453/88245498-aa051380-cc54-11ea-9d38-24074ddfde9a.png)
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate web developer from San Carlos, Costa Rica</h3>
+<h3 align="center">A passionate web and mobile developer from San Carlos, Costa Rica</h3>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://user-images.githubusercontent.com/46753453/91627783-37840380-e977-11ea-83e6-9656ff900302.gif"     height="30px"/></h3> 
@@ -13,7 +13,7 @@
 <a href="https://instagram.com/maikolsoro.z1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maikolsoro.z1998" height="20" width="40"/></a>
  <p/>
  
-- 💬 Ask me about **react, javascript, performance web and anything about web development**
+- 💬 Ask me about ** react, javascript, performance web and anything about web development**
 
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
 
