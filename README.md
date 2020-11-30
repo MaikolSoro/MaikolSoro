@@ -22,7 +22,7 @@
 **Languages and Tools:**  
 
 #### Web
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
