@@ -32,7 +32,7 @@
  ### Mobile
  ![Xamarin](https://img.shields.io/badge/-Xamarin-black?style=flat-square&logo=xamarin)
  ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
- ![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=ionic)
+ ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
