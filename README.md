@@ -13,26 +13,18 @@
 <a href="https://instagram.com/maikolsoro.z1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maikolsoro.z1998" height="20" width="40"/></a>
  <p/>
  
-- 💬 Ask me about **performance mobile**
-
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
 
 <img align="right" src="https://user-images.githubusercontent.com/46753453/91627739-cd6b5e80-e976-11ea-9b75-7365741893af.gif"/>
 
 **Languages and Tools:**  
 
-#### Web
-![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
- ### Desk
- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>
  ### Mobile
  ![Xamarin](https://img.shields.io/badge/-Xamarin-black?style=flat-square&logo=xamarin)
  ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
  ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+ ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+ 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
