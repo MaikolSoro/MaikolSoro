@@ -5,9 +5,9 @@
 
 My areas of interest are:
 
-Created, maintained and published native Android applications using Java and Kotlin.
-Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
-Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
+- Created, maintained and published native Android applications using Java and Kotlin.
+- Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
+- Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://user-images.githubusercontent.com/46753453/91627783-37840380-e977-11ea-83e6-9656ff900302.gif"     height="30px"/></h3> 
