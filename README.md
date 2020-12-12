@@ -1,4 +1,4 @@
-![Michael Soro Zúñiga (1)](https://user-images.githubusercontent.com/46753453/88245498-aa051380-cc54-11ea-9d38-24074ddfde9a.png)
+![Michael Soro Zúñiga](https://user-images.githubusercontent.com/46753453/101974782-f18a3d00-3bff-11eb-98ec-424dc86af346.png)
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">👨‍💻 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Java,kotlin, c# and Google Play Services.👍😍📲</h3>
