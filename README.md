@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/46753453/101975806-01f0e680-3c05-11eb-9846-73ab2618db30.png)
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include Java, kotlin, c #, and Google Play Services. I am currently an Android developer in a small business with more than 2 years of experience and an Android Associate Developer Certificate.👍😍📲</h3>
+<h3 align="center">👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include Java, kotlin, c #, and Google Play Services. I am currently an Android developer in a small company with more than 2 years of experience and an Android Associate Developer Certificate.👍😍📲</h3>
 
 My areas of interest are:
 
