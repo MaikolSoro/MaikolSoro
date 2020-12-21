@@ -11,10 +11,10 @@ My areas of interest are:
 - Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
 - Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
-  ## Skills and Experience
-  ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-  ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+## Skills and Experience
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MaikolSoro)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maikolsoro.z1998/)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@maikol_soro)  
