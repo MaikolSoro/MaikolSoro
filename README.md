@@ -1,6 +1,8 @@
+
+![Software Engineer || (Android Developer) Java❤| Kotlin❤Android.](https://user-images.githubusercontent.com/46753453/101975806-01f0e680-3c05-11eb-9846-73ab2618db30.png)
+
 ### Hi there 👋, Michael Soro
 #### Software Engineer || (Android Developer) Java❤| Kotlin❤Android.
-![Software Engineer || (Android Developer) Java❤| Kotlin❤Android.](https://user-images.githubusercontent.com/46753453/101975806-01f0e680-3c05-11eb-9846-73ab2618db30.png)
 
 👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include Java, kotlin, c #, and Google Play Services. I am currently an Android developer in a small company with more than 2 years of experience and an Android Associate Developer Certificate.👍😍📲.
 My areas of interest are:
