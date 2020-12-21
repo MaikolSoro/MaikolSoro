@@ -9,9 +9,12 @@ My areas of interest are:
 - Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
 - Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
-Skills: Android/ Kotlin / GraphQL / SQLite 
+  ## Skills and Experience
+  * Android
+  * Kotlin
+  * GraphQL 
+  * SQLite 
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MaikolSoro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maikolsoro.z1998/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@maikol_soro)  
