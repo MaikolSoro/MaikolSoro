@@ -17,12 +17,10 @@ My areas of interest are:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MaikolSoro)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maikolsoro.z1998/)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@maikol_soro)  
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaikolSoro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MaikolSoro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maikolsoro.z1998/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@maikol_soro)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikolSoro&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/MaikolSoro)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MaikolSoro)  
