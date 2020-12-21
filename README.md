@@ -23,5 +23,3 @@ My areas of interest are:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikolSoro&show_icons=true&count_private=true)  
 
-
-
