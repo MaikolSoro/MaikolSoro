@@ -5,6 +5,7 @@
 #### Software Engineer || (Android Developer) Java❤| Kotlin❤Android.
 
 👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include Java, kotlin, c #, and Google Play Services. I am currently an Android developer in a small company with more than 2 years of experience and an Android Associate Developer Certificate.👍😍📲.
+
 My areas of interest are:
 
 - Created, maintained and published native Android applications using Java and Kotlin.
