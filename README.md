@@ -4,7 +4,7 @@
 # Hi there 👋, Michael Soro
 #### Software Engineer || (Android Developer) Kotlin❤Android.
 
-👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include Java, kotlin, c #, and Google Play Services. I am currently an Android developer in a small company with more than 2 years of experience and an Android Associate Developer Certificate.👍😍📲.
+👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include kotlin, and Google Play Services. I am currently an Android developer in a small company with more than 2 years of experience and an Android Associate Developer Certificate.👍😍📲.
 
 My areas of interest are:
 
