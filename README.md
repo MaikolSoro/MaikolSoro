@@ -18,6 +18,7 @@
   
 ![Software Engineer || (Android Developer) Kotlin❤Android.](https://user-images.githubusercontent.com/46753453/101975806-01f0e680-3c05-11eb-9846-73ab2618db30.png)
 
+Software Engineer || (Android Developer) Kotlin❤Android.
 👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include kotlin, and Google Play Services.👍😍📲.
 
 My areas of interest are:
