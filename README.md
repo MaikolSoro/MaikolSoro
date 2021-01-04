@@ -12,10 +12,10 @@
 <a href="https://dev.to/maikolsoro" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Michael Soro" target="_blank">
+<a href="https://www.facebook.com/MaikolSoro" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.skype.com/MaikolSoro" target="_blank">
+<a href="https://www.skype.com/Michael Soro" target="_blank">
 <img src=https://img.shields.io/badge/skype-%23000000.svg?&style=for-the-badge&logo=skype&logoColor=white alt=skype style="margin-bottom: 5px;" />
 </a>  
   
