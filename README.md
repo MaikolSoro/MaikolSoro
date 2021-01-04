@@ -36,7 +36,7 @@ My areas of interest are:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikolSoro&show_icons=true&count_private=true)  
 <details>
-<summary>Languaje Statics..<summary/><br/>
+<summary>Languajes ..<summary/><br/>
 <p alight= "center">  
 <img src="https://wakatime.com/share/@MaikolSoro/526878cd-a0a4-4a1e-86e6-5539503e4247.svg" height="300" />
 </p>
