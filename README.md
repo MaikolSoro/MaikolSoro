@@ -38,6 +38,6 @@ My areas of interest are:
 <details>
 <summary>Languaje Statics..<summary/><br/>
 <p alight= "center">  
-<img src="https://wakatime.com/share/@MaikolSoro/526878cd-a0a4-4a1e-86e6-5539503e4247.svg" height=""300 />
-<p/>
- <details/>
+<img src="https://wakatime.com/share/@MaikolSoro/526878cd-a0a4-4a1e-86e6-5539503e4247.svg" height="300" />
+</p>
+ </details>
