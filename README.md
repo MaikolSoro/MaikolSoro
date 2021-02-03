@@ -34,5 +34,5 @@ My areas of interest are:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikolSoro&show_icons=true&count_private=true)  
+
 
