@@ -33,6 +33,7 @@ My areas of interest are:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
 
