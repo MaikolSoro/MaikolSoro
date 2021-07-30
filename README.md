@@ -25,6 +25,7 @@ My areas of interest are:
 - Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
 - 📫 How to reach me **maikolsoro.z1998@gmail.com**
+- My GitLab https://gitlab.com/Maikol
 ## Skills and Experience
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
