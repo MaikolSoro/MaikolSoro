@@ -1,3 +1,4 @@
+## Hey 👋, I'm Michael Soro!  
 ![image](https://user-images.githubusercontent.com/46753453/101975806-01f0e680-3c05-11eb-9846-73ab2618db30.png)
 
 
