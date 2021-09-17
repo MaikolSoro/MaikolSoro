@@ -30,11 +30,12 @@ My areas of interest are:
 
 ## How to reach me:
 
+
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Gmail&label=&color=EA4335&labelColor=000000" /></a>
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&message=Twitter&label=&color=00acee&labelColor=000000)][twitter]
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&message=Instagram&label=&color=E1306C&labelColor=000000)][instagram]
 
 <hr>
-
 <details>
   <summary>:zap: Most Used Languages</summary>
   <img align="center" alt="MaikolSoro's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikolSoro&theme=blue-green&layout=compact" />
@@ -53,7 +54,7 @@ My areas of interest are:
 <!-- Links -->
 
 [twitter]: https://twitter.com/maikol_soro
-[instagram]: https://instagram.com/MaikolSoro
+[instagram]: https://instagram.com/maikol_sz
 [facebook]: https://facebook.com/MaikolSoro
 [github]: https://github.com/MaikolSoro
 [gitlab]: https://github.com/Maikol
