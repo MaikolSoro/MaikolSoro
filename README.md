@@ -21,7 +21,8 @@ My areas of interest are:
 ![Express JS](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express%20JS&label=&color=000000&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=000000)
-
+[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 ## Languages:
 
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&logo=kotlin&message=Kotlin&label=&color=6C3FD1&labelColor=000000)
