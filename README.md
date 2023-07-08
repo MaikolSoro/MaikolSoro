@@ -1,3 +1,7 @@
+## Hey 👋, I'm Michael Soro!  
+![image](https://user-images.githubusercontent.com/46753453/101975806-01f0e680-3c05-11eb-9846-73ab2618db30.png)
+
+
 ## About Me:
 
 Software Engineer || (Android Developer) Kotlin❤Android. 👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include kotlin, and Google Play Services.👍😍📲.
@@ -12,21 +16,19 @@ My areas of interest are:
 ## Technologies:
 
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&logo=android&message=Android&label=&color=00de7a&labelColor=000000)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&logo=laravel&message=Laravel&label=&color=FF2D20&labelColor=000000)
+![Node JS](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node%20JS&label=&color=#212121&labelColor=000000)
+![Express JS](https://img.shields.io/static/v1?style=for-the-badge&logo=express&message=Express%20JS&label=&color=000000&labelColor=000000)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&logo=firebase&message=Firebase&label=&color=F7C52B&labelColor=000000)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&logo=flutter&message=Flutter&label=&color=01579B&labelColor=000000)
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![POSTGRESS](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLITE](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLSERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ## Languages:
 
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&logo=kotlin&message=Kotlin&label=&color=6C3FD1&labelColor=000000)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=E51F24&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C#](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=javascript&label=&color=F7DF1E&labelColor=000000)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB3&labelColor=000000)
 
 ## How to reach me:
 
