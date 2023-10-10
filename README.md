@@ -2,7 +2,7 @@
 
 ## About Me:
 
-Software Engineer || (Android Developer) Kotlin❤Android. 👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include kotlin, and Google Play Services.👍😍📲.
+Software Engineer || (Android Developer) Kotlin❤Android || Cybersecurity. 👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include kotlin, and Google Play Services.👍😍📲.
 My areas of interest are:
 
 - Created, maintained and published native Android applications using Java and Kotlin.
