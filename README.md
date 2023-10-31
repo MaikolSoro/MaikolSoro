@@ -60,6 +60,12 @@ My areas of interest are:
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/obsidian_alt_macos_bigsur_icon_189887.png" alt="obsidian" width="50" />
 <img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" alt="x64dbg" width="50" />
 
+# 👨🏻‍💻 CTF Player:
+[<img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-1024x1024-4ufmqn5r.png" alt="hackthebox" width="100"/>](https://app.hackthebox.com/profile/776426)
+[<img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="tryhackme" width="100"/>]
+<img src="https://avatars.githubusercontent.com/u/14081133?s=280&v=4" alt="vulnhub" width="100" />
+<br>
+
 ## How to reach me:
 
 
