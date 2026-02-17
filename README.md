@@ -2,12 +2,36 @@
 
 ## About Me:
 
-Software Engineer || (Android Developer) Kotlin❤Android || Cybersecurity. 👨‍💻 I am a software developer who is passionate about creating technology to lift people up and help new developers find the right path. Some technologies that I enjoy working with include kotlin, and Google Play Services.👍😍📲.
-My areas of interest are:
+Product-driven Software Engineer building secure mobile and cloud systems.
 
-- Created, maintained and published native Android applications using Java and Kotlin.
-- Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
-- Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
+I work at the intersection of engineering, product strategy, and cybersecurity — designing systems that are not only scalable and secure, but aligned with real business outcomes.
+
+My core focus:
+
+Native iOS (Swift) and Android (Kotlin) development
+
+Microservices architecture and distributed systems
+
+AWS cloud infrastructure and deployment
+
+Security-by-design principles across mobile and backend
+
+Translating product goals into clean, scalable technical execution
+
+I approach development with a product mindset:
+understanding user impact, balancing delivery speed with long-term maintainability, and reducing technical debt without slowing growth.
+
+I build systems that are:
+
+Scalable
+
+Secure
+
+Performance-optimized
+
+Business-aligned
+
+Currently focused on production-grade mobile platforms connected to cloud-native microservices.
 <br>
 <br>
 
