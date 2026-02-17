@@ -2,22 +2,38 @@
 
 ## About Me:
 
-Product-driven Software Engineer building secure mobile and cloud systems.
+# 🚀 About Me
+
+**Product-driven Software Engineer** building secure mobile and cloud systems.
+
 I work at the intersection of engineering, product strategy, and cybersecurity — designing systems that are not only scalable and secure, but aligned with real business outcomes.
-My core focus:
-Native iOS (Swift) and Android (Kotlin) development
-Microservices architecture and distributed systems
-AWS cloud infrastructure and deployment
-Security-by-design principles across mobile and backend
-Translating product goals into clean, scalable technical execution
+
+## 🔧 Core Focus
+
+- Native iOS (Swift) and Android (Kotlin) development  
+- Microservices architecture and distributed systems  
+- AWS cloud infrastructure and deployment  
+- Security-by-design principles across mobile and backend  
+- Translating product goals into clean, scalable technical execution  
+
+## 🧠 Product Mindset
+
 I approach development with a product mindset:
 understanding user impact, balancing delivery speed with long-term maintainability, and reducing technical debt without slowing growth.
-I build systems that are:
-Scalable
-Secure
-Performance-optimized
-Business-aligned
+
+## ⚙️ What I Build
+
+Systems that are:
+
+- Scalable  
+- Secure  
+- Performance-optimized  
+- Business-aligned  
+
+---
+
 Currently focused on production-grade mobile platforms connected to cloud-native microservices.
+
 <br>
 <br>
 
