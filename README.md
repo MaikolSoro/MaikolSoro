@@ -81,36 +81,36 @@ Product mindset: understand user impact, balance delivery speed with long-term m
 
 ## 🔐 Offensive security toolkit
 
-<img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/506px-Parrot_Logo.png" alt="Parrot" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="vmware" width="50" />
-<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="virtualbox" width="50" />
-<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="50" />
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="50" />
-<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
-<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="50" />
-<img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
-<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="maltego" width="50" />
-<img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="50" />
-<img src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" alt="crackmapexec" width="50" />
-<img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="50" />
-<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="air-crack" width="50" />
-<img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdump" width="50" />
-<img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="sherlock" width="50" />
-<img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="50" />
-<img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
-<img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
-<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
-<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
-<img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="50" />
-<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" alt="bloodhound" width="50" />
-<img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
-<img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="mimikatz" width="50" />
-<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
-<img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef" width="50" />
-<img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" width="50" />
-<img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" alt="x64dbg" width="50" />
+<p align="left">
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burpsuite" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali" width="48" />&nbsp;&nbsp;
+<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="48" />&nbsp;&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="maltego" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" alt="crackmapexec" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="aircrack-ng" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdump" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="sherlock" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" alt="bloodhound" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="mimikatz" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef-xss" width="48" />&nbsp;&nbsp;
+<img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" width="48" />&nbsp;&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="virtualbox" width="48" />&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" alt="x64dbg" width="48" />
+</p>
 
 ## 👨🏻‍💻 CTF Player
 
